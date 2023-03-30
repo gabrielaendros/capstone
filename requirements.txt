@@ -1,0 +1,10 @@
+pymysql
+SQLAlchemy==1.4.40
+pandas
+numpy
+streamlit
+plotly.express
+requests
+streamlit_authenticator
+altair
+pyyaml
