@@ -1,9 +1,9 @@
-# capstone final project
+# Capstone Final Project by Gabriela Endrös
 This repository contains mainly my capstone final project. This project has been very challenging but also very complete in order to get full visibility of real projects. 
 
-Here is the link to inspect the final version: 
+Here is the link to inspect the final version: https://frontend-dot-booming-mission-376415.oa.r.appspot.com/
 
-# *REPO content: *
+# REPO content: 
 - API: 
   -api.py
   -app.yaml
@@ -15,7 +15,8 @@ Here is the link to inspect the final version:
   -requirements.txt
 - KPIs
 
-# *API Applications*
+
+# API Applications
 These REST API were built using Flask-RestX for a web application and is used to visualize different KPIs for the H&M data, divided into 3 different datasets: 
 - Articles
 - Transactions
@@ -25,7 +26,7 @@ These REST API were built using Flask-RestX for a web application and is used to
 
 <img width="1485" alt="Captura de pantalla 2023-03-30 a las 17 54 40" src="https://user-images.githubusercontent.com/114749480/228894274-a7f558f0-b0df-4548-9527-e7aca47d56d3.png">
 
-# *Streamlit application: *
+# Streamlit application: 
 Moreover, the streamlit application deployed on App Engine (Google Cloud) has first of all a login feature in order to protect the data. 
 
 The username and Password depends on the person and is hashed in the code in order to keep it private and secure. (Find it in your email). 
